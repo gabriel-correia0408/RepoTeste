@@ -1,6 +1,6 @@
-# teste de git readme
+# teste de git README
 
-![umnouniverso](https://www.spaltron.net/wp-content/uploads/2019/09/teri-wade-somos-todos-um-no-universo.jpg)
+![teste](C:\Users\gabriel.correia\Desktop\RepoTeste\universo)
 
 
-Este repositório é de teste do exemplo do curso de github e git.
+Este repositório é de teste do exemplo do curso de Github e Git.

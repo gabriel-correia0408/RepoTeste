@@ -1,6 +1,6 @@
 # teste de git readme
 
-![./umnouniverso.jpg](Um no universo)
+![C:\Users\gabriel.correia\Desktop\RepoTeste](Um no universo)
 
 
 Este repositório é de teste do exemplo do curso de github e git.

@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c84467a8-e155-4f8a-aaee-add2461515f0" name="Default Changelist" comment="">
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> master
       <change beforePath="$PROJECT_DIR$/arquivonovo" beforeDir="false" afterPath="$PROJECT_DIR$/arquivonovo" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +30,7 @@
     <configuration />
   </component>
   <component name="TaskManager">
+<<<<<<< HEAD
     <task active="true" id="Default" summary="Default task">
       <changelist id="c84467a8-e155-4f8a-aaee-add2461515f0" name="Default Changelist" comment="" />
       <created>1587638604274</created>
@@ -33,6 +38,8 @@
       <option name="presentableId" value="Default" />
       <updated>1587638604274</updated>
     </task>
+=======
+>>>>>>> master
     <servers />
   </component>
   <component name="WindowStateProjectService">

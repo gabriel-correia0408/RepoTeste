@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c84467a8-e155-4f8a-aaee-add2461515f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/arquivonovo" beforeDir="false" afterPath="$PROJECT_DIR$/arquivonovo" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,9 +40,9 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="401" y="295" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.984/-1280.0.1280.984@0.0.1280.984" timestamp="1587638667650" />
-    <state x="336" y="316" key="com.intellij.ide.util.TipDialog" timestamp="1587638623583">
+    <state x="336" y="316" key="com.intellij.ide.util.TipDialog" timestamp="1587675048950">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="336" y="316" key="com.intellij.ide.util.TipDialog/0.0.1280.984/-1280.0.1280.984@0.0.1280.984" timestamp="1587638623583" />
+    <state x="336" y="316" key="com.intellij.ide.util.TipDialog/0.0.1280.984/-1280.0.1280.984@0.0.1280.984" timestamp="1587675048950" />
   </component>
 </project>
